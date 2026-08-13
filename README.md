@@ -13,7 +13,7 @@
 
 ## 1. Chosen Niche
 
-**Target role:** Junior Full-Stack Developer (remote)
+**Target role:** Full-Stack Developer (remote)
 
 ### Why Full-Stack
 
