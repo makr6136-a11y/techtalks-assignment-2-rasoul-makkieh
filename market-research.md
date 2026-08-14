@@ -17,35 +17,38 @@ Target niche: **Full-Stack Developer**. Six listings analyzed. Links and exclusi
 
 ### Frequency of requirements
 
-Go through all six listings and count how many mention each item. Count a skill only if it appears as a **requirement**, not as a "nice to have" — track those separately in the notes column. Add or remove rows as your evidence dictates; this list is a checklist of what to look for, not a set of expected answers.
+Counts are based on required skills across the six listings. Where a technology appears only in a listing's responsibilities rather than its requirements list, it is still counted and noted. Nice-to-have mentions are excluded from the count and recorded in the notes column.
 
 | Skill / Technology | Times Mentioned | Priority | Notes |
 |--------------------|-----------------|----------|-------|
-| Git / version control | / 6 | | |
-| REST APIs | / 6 | | |
-| Relational databases (SQL) | / 6 | | |
-| NoSQL databases | / 6 | | |
-| JavaScript | / 6 | | |
-| HTML / CSS | / 6 | | |
-| React | / 6 | | |
-| Next.js | / 6 | | |
-| Vue.js | / 6 | | |
-| TypeScript | / 6 | | |
-| Node.js | / 6 | | |
-| PHP / Laravel | / 6 | | |
-| Python | / 6 | | |
-| Java / Spring | / 6 | | |
-| Authentication / security | / 6 | | |
-| Testing | / 6 | | |
-| Docker / containers | / 6 | | |
-| CI/CD | / 6 | | |
-| Cloud (AWS / GCP / Azure) | / 6 | | |
-| Infrastructure as Code | / 6 | | |
-| GraphQL | / 6 | | |
-| Agile / Scrum | / 6 | | |
-| Documentation | / 6 | | |
-| Written / spoken English | / 6 | | |
-| AI / LLM integration | / 6 | | |
+| Git / version control | 3 / 6 | Medium | Rows 2, 3, 4. Not named in 1, 5, 6 |
+| REST APIs | 6 / 6 | High | Every listing. Generic "APIs" in row 2 |
+| Relational databases (SQL) | 6 / 6 | High | Generic "database" in rows 2 and 3 |
+| NoSQL databases | 2 / 6 | Medium | Rows 4 (MongoDB) and 6 (DynamoDB, MongoDB) — both remote. Rows 1 and 5 are relational-only; rows 2 and 3 say only "databases" |
+| JavaScript | 4 / 6 | High | Named in 1, 2 (ES6+), 4. Implied in 6 via React/Redux. Absent from 5, which is Python-only |
+| HTML / CSS | 4 / 6 | High | Explicit in 2 and 4 (HTML5/CSS3); via Tailwind/Bootstrap in 1 and "modern CSS frameworks" in 6. Not named in 3 or 5 |
+| React | 2 / 6 | Medium | Only in the two remote listings (4, 6) |
+| Next.js | 1 / 6 | Low | Row 4 only. Row 6 wants React with no framework named |
+| Vue.js | 1 / 6 | Low | Row 1 only (Vue 2 and 3). The only local listing with a named frontend framework |
+| TypeScript | 1 / 6 | Low | Row 4 only. No other listing names a typed JS layer |
+| Node.js | 1 / 6 | Low | Row 6 only, and offered as an alternative to Python — not mandatory |
+| PHP / Laravel | 2 / 6 | Medium | Rows 1 and 2, both on-site in Beirut. Absent from all three remote listings |
+| Python | 2 / 6 | Medium | Rows 5 and 6, both US remote. Absent from all three local listings |
+| Java / Spring | 0 / 6 | None | Not mentioned in any listing, despite being standard in bootcamp curricula |
+| Authentication / security | 4 / 6 | High | Named as a skill in 3 (auth, permissions, data privacy), 5 (secure coding, vulnerability remediation), 6 (API security, injection, BOLA); as a responsibility in 4 |
+| Testing | 2 / 6 | Medium | Required in 2 (debug/test) and 3 (UAT, regression). Frameworks (Jest, Cypress, TDD) appear only as nice-to-have in row 4 — no listing requires a named framework |
+| Docker / containers | 2 / 6 | Medium | Rows 1 (Docker) and 6 (containerization). Nice-to-have in 4 (Docker, Kubernetes) |
+| CI/CD | 3 / 6 | Medium | Rows 4 (GitHub/GitLab), 5 (Jenkins), 6 (automated gates) — all three remote. Absent from all three on-site |
+| Cloud (AWS / GCP / Azure) | 3 / 6 | Medium | AWS named in 5 and 6; generic "cloud environments" in 3. Row 4 requires Vercel/Netlify but lists AWS/Azure as nice-to-have |
+| Infrastructure as Code | 2 / 6 | Medium | Rows 5 and 6 only — the two US remote listings. No local listing mentions it |
+| GraphQL | 2 / 6 | Medium | Rows 4 and 6, both remote, and both alongside REST rather than replacing it |
+| Agile / Scrum | 2 / 6 | Medium | Rows 4 (Scrum/Kanban) and 5 (Agile). Row 3 implies a release process but never names a methodology |
+| Documentation | 3 / 6 | Medium | Rows 1 (runbooks, SOPs), 3 (technical and release docs), 5 (root-cause write-ups). Spans local and remote, junior and senior |
+| Written / spoken English | 2 / 6 | Medium | Row 1 names written English outright; row 5 lists communication as a required skill. Likely under-counted — assumed rather than stated elsewhere |
+| AI / LLM integration | 1 / 6 | Low | Row 3 only, but deeply: LLM API integration, prompt configuration, structured outputs, AI screening workflows. Also present in two excluded listings |
+
+
+Priority is assigned by raw frequency only: 4+ = High, 2–3 = Medium, 1 = Low. Relevance to remote roles specifically is discussed in the analysis below.
 
 ### Essential skills
 
