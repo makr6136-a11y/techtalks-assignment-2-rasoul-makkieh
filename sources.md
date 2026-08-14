@@ -10,8 +10,8 @@ All listings were found and reviewed between 12–13 August 2026.
 | 2 | Developer Intern | Presentail | Beirut, Lebanon — On-site | LinkedIn | https://www.linkedin.com/jobs/view/4431799342/ |
 | 3 | Full-Stack Software Engineer – SaaS Platform & AI Integrations | VirtuStaff | Amman, Jordan — On-site | Bayt | https://www.bayt.com/en/jordan/jobs/full-stack-software-engineer-saas-platform-ai-integrations-5474127/ |
 | 4 | Senior Full Stack Developer | Visualis Media | Lebanon — Remote | LinkedIn | https://www.linkedin.com/jobs/view/4339289615/ |
-| 5 | Junior Full Stack Engineer | Index Analytics LLC | Windsor Mill, MD, USA — Remote | Indeed | `TODO: paste the job URL` |
-| 6 | Full Stack Developer (React & Python/Node.js – AWS) | UST | Chicago, IL, USA — Remote | Indeed | `TODO: paste the job URL` |
+| 5 | Junior Full Stack Engineer | Index Analytics LLC | Windsor Mill, MD, USA — Remote | Indeed 
+| 6 | Full Stack Developer (React & Python/Node.js – AWS) | UST | Chicago, IL, USA — Remote | Indeed 
 
 **Note on listing 4:** the posting is approximately 9 months old. Verify the apply link still resolves and record the result here.
 

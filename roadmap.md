@@ -1,4 +1,4 @@
-# Six-Month Learning Roadmap
+# 4. Six-Month Learning Roadmap
 
 *Assumptions, stated so they can be challenged: (1) the near-term target is the local market, because listing 2 is the only role in the sample I could apply to today; (2) success at month 6 means internship-ready with one deployed project as evidence; (3) the hour budget is a flat 10 hours per week, held constant rather than assumed to rise over the break. Prior coursework completed: OOP I (Java), Web Design (HTML/CSS), Database Design (basic SQL).*
 

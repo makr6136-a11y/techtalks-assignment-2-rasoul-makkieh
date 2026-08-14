@@ -107,7 +107,7 @@ Current profile: SQL, Java/OOP, C++, HTML/CSS, Next.js in progress.
 
 **Remote-gated gaps — not needed to start, required to advance.** CI/CD (3/6), cloud (3/6), Docker (2/6), Infrastructure as Code (2/6), NoSQL (2/6), testing (2/6). None appear in the intern listing. All cluster in the roles paying remote wages.
 
-**Low priority.** TypeScript (1/6), GraphQL (2/6), AI/LLM integration (1/6) — worth knowing they exist; not worth spending time on before the rows above are closed.
+**Low priority.** TypeScript (1/6) and AI/LLM integration (1/6) — worth knowing they exist; not worth spending time on before the rows above are closed. GraphQL scores Medium (2/6) but is deprioritized alongside them for a specific reason: listings 4 and 6 both ask for it *alongside* REST rather than instead of it, so REST is the requirement and GraphQL is the extra.
 
 ### Local vs. remote comparison
 
