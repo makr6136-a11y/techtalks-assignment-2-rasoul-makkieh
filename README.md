@@ -38,12 +38,5 @@ Next semester I will take Web Programming I, Database Programming, Object Orient
 
 ## 6. Final Reflection
 
-`TODO — 150–200 words. What did the research change, and what did it confirm?`
-
-Three things you can draw on, all traceable to your own findings:
-
-1. You expected to continue with Next.js by default. The research put it at 1/6, remote-only, and moved it out of the six-month plan.
-2. You ruled out DevOps in section 1 because you had no CI/CD or Docker background. The research then showed every remote listing requires exactly that cluster — so it isn't avoidable, only deferrable.
-3. You expected to target remote roles directly. The research found no remote entry point at your level and redirected the near-term plan to local.
-
-What it confirmed: Full-Stack was the right niche, and your SQL and database coursework is worth more than your Java.
+This research confirmed that Full-Stack Development is the right niche for me because it connects my existing knowledge of SQL, Java, object-oriented programming, HTML and CSS. However, it changed both my learning priorities and how I plan to enter the industry. I originally expected to continue learning Next.js by default, but it appeared in only one of the six listings and only in a remote senior role. Therefore, I moved it out of my six-month roadmap and prioritized skills with stronger evidence, including REST APIs, databases, JavaScript, Git, documentation, authentication and security.
+The research also changed my employment strategy. I initially expected to target remote roles directly, but the remote and US-based listings required at least four or five years of experience. The only realistic entry-level opportunity was a local internship, so local roles are now my immediate target. Deployment, cloud, CI/CD and infrastructure skills remain important for experienced and non-local positions, but they can be deferred until after I build stronger fundamentals. Finally, the research showed that my SQL and database coursework is currently more valuable to this niche than Java, because database work appeared in every listing while Java appeared only once.
