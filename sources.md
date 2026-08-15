@@ -1,6 +1,6 @@
 # Sources
 
-All listings were found and reviewed between 12–13 August 2026.
+All listings were found and reviewed between 12–15 August 2026.
 
 ## Analyzed Listings
 
@@ -35,6 +35,6 @@ The following listings were found during the search and deliberately excluded. E
 
 **Search terms used:** `full-stack entry level`, `remote work web developer`, `entry-level junior full stack`, `Remote full stack developer jobs`, `Full Stack Engineer`
 
-**Geographies covered:** Lebanon (Beirut and remote), Jordan (Amman), United States (remote)
+**Geographies covered:** Lebanon (Beirut and remote), Jordan (Amman), United States (remote and Chicago).
 
 **Observation on the search itself:** searching for entry-level full-stack roles repeatedly returned senior roles, bulk postings, or CMS/marketing roles. Of 11 listings reviewed, 6 met the criteria and 5 were excluded. This is discussed further in `market-research.md`.

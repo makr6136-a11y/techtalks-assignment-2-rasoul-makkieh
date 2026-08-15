@@ -16,7 +16,7 @@
 **Long-term target role:** Full-Stack Developer, remote
 **Near-term entry point:** junior or intern Full-Stack / web developer, local (Lebanon)
 
-This two-stage framing is a result of the research, not the starting assumption. The remote listings I analyzed had no genuine entry point — 5+ years, four years behind a "Junior" title, and Lead level — while the only role in the sample I could apply to today is local. The sequencing is set out in [`roadmap.md`](roadmap.md).
+This two-stage framing is a result of the research, not the starting assumption.The remote and US-based listings I analyzed had no genuine entry point — 5+ years, four years behind a "Junior" title, and Lead level — while the only role in the sample I could apply to today is local. The sequencing is set out in [`roadmap.md`](roadmap.md).
 
 ### Why Full-Stack
 
