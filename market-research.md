@@ -11,7 +11,7 @@ Target niche: **Full-Stack Developer**. Six listings analyzed. Links and exclusi
 | 3 | Full-Stack Software Engineer – SaaS & AI / VirtuStaff | Amman, Jordan (on-site) |Full-stack development (frontend, backend, database, architecture), REST and third-party API integration, AI/LLM API integration, prompt configuration and structured outputs, Git with branching and release documentation, cloud environments (deployment, monitoring, backups), authentication and permissions, data security and privacy, UAT and regression testing, code reviews, technical documentation |Take structured handover of an existing codebase from a third-party team; develop, test and release platform features; fix frontend, backend, API, integration and database defects; maintain AI candidate-screening and matching workflows; build CRM, email, analytics, payment and notification integrations; support cloud deployments and monitoring | 3+ years, mid career |None stated |
 | 4 | Senior Full Stack Developer / Visualis Media | Lebanon (remote) |Next.js, React, TypeScript, JavaScript, HTML5, CSS3, SQL and NoSQL (PostgreSQL, MongoDB), CMS frameworks (Contentful, Strapi), Vercel/Netlify deployment, Git with branching and code review, CI/CD (GitHub, GitLab), REST APIs, GraphQL, Agile/Scrum/Kanban |Design, develop and maintain web applications in Next.js and React; manage MongoDB and NoSQL schema design; implement and optimize deployment workflows on Vercel/Netlify; define Git branching strategies, code review guidelines and CI/CD workflows; optimize for performance, security and scalability; debug and troubleshoot | 5+ years |Serverless architecture and cloud (AWS, Azure), testing frameworks (Jest, Cypress) and TDD, SEO best practices, containerization (Docker, Kubernetes) |
 | 5 | Junior Full Stack Engineer / Index Analytics | Windsor Mill, MD, USA (remote) |SQL, Python, RESTful APIs, relational databases (PostgreSQL/Aurora), AWS (S3, Secrets Manager, SSM), CI/CD (Jenkins), Infrastructure as Code, monitoring and troubleshooting (CloudWatch, Splunk), secure coding, Agile, communication |Support full-stack development across frontend, backend and database layers; participate in the full SDLC with mentorship; develop and consume REST APIs; deploy and support applications in AWS; contribute to IaC templates promoted through CI/CD; triage production issues and document root cause; remediate security vulnerabilities and patch dependencies | Titled "Junior" but requires 4 years | DevSecOps practices (preferred), prior experience with CMS or other government agencies|
-| 6 | Full Stack Developer / UST | Chicago, IL, USA (remote) |React, Redux/Context API, modern CSS frameworks, Python (FastAPI, Django, Flask) or Node.js (Express, NestJS), microservices, REST and GraphQL APIs, API security (injection, broken object-level authorization), AWS, containerization, Infrastructure as Code, CI/CD, relational databases (PostgreSQL, MySQL), NoSQL (DynamoDB, MongoDB), schema design and query optimization | Build modular responsive UIs in React; design and scale backend services and microservices; architect and secure REST/GraphQL APIs; deploy and manage components in AWS containerized environments; own deployment workflows through IaC and automated CI/CD gates; design schemas and write optimized queries across SQL and NoSQL| Lead I – Software Engineering |Not stated (listing truncated) |
+| 6 | Mid-Level Full Stack Developer / UST Global | Chicago, IL, USA |Angular.js, Python or Java, FastAPI/Django/Flask, AWS (EC2, S3, RDS, IAM, Lambda, API Gateway), relational or NoSQL databases (MySQL, PostgreSQL, DynamoDB), RESTful APIs, Git, Agile, Jasmine/Karma, Pytest | Develop full-stack web applications; create Angular.js interfaces; build Python or Java server-side applications; deploy and scale applications on AWS; write documented and testable code; participate in code reviews; troubleshoot and maintain applications | 5+ years; Lead I – Software Engineering | Vue.js, serverless architecture with AWS Lambda, CI/CD practices and tools |
 
 ## 3. Pattern Analysis
 
@@ -21,29 +21,29 @@ Counts are based on required skills across the six listings. Where a technology 
 
 | Skill / Technology | Times Mentioned | Priority | Notes |
 |--------------------|-----------------|----------|-------|
-| Git / version control | 3 / 6 | Medium | Rows 2, 3, 4. Not named in 1, 5, 6 |
+| Git / version control | 4 / 6 | High | Rows 2, 3, 4, 6. Not named in 1 or 5 |
 | REST APIs | 6 / 6 | High | Every listing. Generic "APIs" in row 2 |
 | Relational databases (SQL) | 6 / 6 | High | Generic "database" in rows 2 and 3 |
-| NoSQL databases | 2 / 6 | Medium | Rows 4 (MongoDB) and 6 (DynamoDB, MongoDB) — both remote. Rows 1 and 5 are relational-only; rows 2 and 3 say only "databases" |
-| JavaScript | 4 / 6 | High | Named in 1, 2 (ES6+), 4. Implied in 6 via React/Redux. Absent from 5, which is Python-only |
-| HTML / CSS | 4 / 6 | High | Explicit in 2 and 4 (HTML5/CSS3); via Tailwind/Bootstrap in 1 and "modern CSS frameworks" in 6. Not named in 3 or 5 |
-| React | 2 / 6 | Medium | Only in the two remote listings (4, 6) |
-| Next.js | 1 / 6 | Low | Row 4 only. Row 6 wants React with no framework named |
+| NoSQL databases | 2 / 6 | Medium | Rows 4 (MongoDB) and 6 (DynamoDB as an option). Rows 1 and 5 are relational-only; rows 2 and 3 say only "databases" |
+| JavaScript | 4 / 6 | High | Named in 1, 2 (ES6+), 4. Implied in 6 through Angular.js. Absent from 5, which is Python-only |
+| HTML / CSS | 4 / 6 | High | Explicit in 2 and 4 (HTML5/CSS3); via Tailwind/Bootstrap in 1 and Angular UI libraries in 6. Not named in 3 or 5 |
+| React | 1 / 6 | Low | Row 4 only |
+| Next.js | 1 / 6 | Low | Row 4 only |
 | Vue.js | 1 / 6 | Low | Row 1 only (Vue 2 and 3). The only local listing with a named frontend framework |
 | TypeScript | 1 / 6 | Low | Row 4 only. No other listing names a typed JS layer |
-| Node.js | 1 / 6 | Low | Row 6 only, and offered as an alternative to Python — not mandatory |
+| Node.js | 0 / 6 | None | Not mentioned in any analyzed listing |
 | PHP / Laravel | 2 / 6 | Medium | Rows 1 and 2, both on-site in Beirut. Absent from all three remote listings |
 | Python | 2 / 6 | Medium | Rows 5 and 6, both US remote. Absent from all three local listings |
-| Java / Spring | 0 / 6 | None | Not mentioned in any listing, despite being standard in bootcamp curricula |
-| Authentication / security | 4 / 6 | High | Named as a skill in 3 (auth, permissions, data privacy), 5 (secure coding, vulnerability remediation), 6 (API security, injection, BOLA); as a responsibility in 4 |
-| Testing | 2 / 6 | Medium | Required in 2 (debug/test) and 3 (UAT, regression). Frameworks (Jest, Cypress, TDD) appear only as nice-to-have in row 4 — no listing requires a named framework |
-| Docker / containers | 2 / 6 | Medium | Rows 1 (Docker) and 6 (containerization). Nice-to-have in 4 (Docker, Kubernetes) |
-| CI/CD | 3 / 6 | Medium | Rows 4 (GitHub/GitLab), 5 (Jenkins), 6 (automated gates) — all three remote. Absent from all three on-site |
+| Java / Spring | 1 / 6 Java; 0 / 6 Spring | Low | Java is an alternative backend language in row 6; Spring is not mentioned |
+| Authentication / security | 3 / 6 | Medium | Named in 3 (auth, permissions, data privacy) and 5 (secure coding, vulnerability remediation); a responsibility in 4 |
+| Testing | 3 / 6 | Medium | Required in 2 (debug/test), 3 (UAT, regression) and 6 (Jasmine/Karma and Pytest). Jest, Cypress and TDD are nice-to-have in row 4 |
+| Docker / containers | 1 / 6 | Low | Required in row 1. Nice-to-have in 4 (Docker, Kubernetes) |
+| CI/CD | 2 / 6 | Medium | Required in rows 4 (GitHub/GitLab) and 5 (Jenkins). Preferred, not required, in row 6 |
 | Cloud (AWS / GCP / Azure) | 3 / 6 | Medium | AWS named in 5 and 6; generic "cloud environments" in 3. Row 4 requires Vercel/Netlify but lists AWS/Azure as nice-to-have |
-| Infrastructure as Code | 2 / 6 | Medium | Rows 5 and 6 only — the two US remote listings. No local listing mentions it |
-| GraphQL | 2 / 6 | Medium | Rows 4 and 6, both remote, and both alongside REST rather than replacing it |
-| Agile / Scrum | 2 / 6 | Medium | Rows 4 (Scrum/Kanban) and 5 (Agile). Row 3 implies a release process but never names a methodology |
-| Documentation | 3 / 6 | Medium | Rows 1 (runbooks, SOPs), 3 (technical and release docs), 5 (root-cause write-ups). Spans local and remote, junior and senior |
+| Infrastructure as Code | 1 / 6 | Low | Row 5 only. No local listing mentions it |
+| GraphQL | 1 / 6 | Low | Row 4 only, alongside REST rather than replacing it |
+| Agile / Scrum | 3 / 6 | Medium | Rows 4 (Scrum/Kanban), 5 (Agile) and 6 (Agile). Row 3 implies a release process but never names a methodology |
+| Documentation | 4 / 6 | High | Rows 1 (runbooks, SOPs), 3 (technical and release docs), 5 (root-cause write-ups) and 6 (documented code) |
 | Written / spoken English | 2 / 6 | Medium | Row 1 names written English outright; row 5 lists communication as a required skill. Likely under-counted — assumed rather than stated elsewhere |
 | AI / LLM integration | 1 / 6 | Low | Row 3 only, but deeply: LLM API integration, prompt configuration, structured outputs, AI screening workflows. Also present in two excluded listings |
 
@@ -60,31 +60,31 @@ Priority is assigned by raw frequency only: 4+ = High, 2–3 = Medium, 1 = Low. 
 
 **HTML and CSS — 4 / 6.** Whatever framework produces the markup, someone still has to make it render correctly and responsively.
 
-**Authentication and security — 4 / 6.** These teams are handling user data, permissions and payments, and the requirement shows up at every level — from the mid-career role in listing 3 to the "junior" role in listing 5, which is expected to remediate vulnerabilities and patch dependencies.
+**Git and documentation — 4 / 6 each.** Employers repeatedly ask candidates to work through shared version-control and review processes and to leave behind readable technical evidence, from runbooks and release notes to documented code and root-cause reports.
 
 The clearest signal in the table is what is *not* here: no framework appeared in more than 2 of 6 — not React, not Vue, not Next.js, not Laravel — while REST APIs and SQL both hit 6 of 6. Employers in this niche are hiring for fundamentals and treating the framework as something you pick up on the job.
 
 ### Secondary skills
 
-**Frameworks and languages — no consensus, split by market.** React (2), PHP/Laravel (2), Next.js (1), Vue (1), TypeScript (1) and Node.js (1) all sit at the bottom of the table, and the split is geographic rather than random: PHP and Laravel appear only in the two on-site Beirut roles, while React, Next.js and TypeScript appear only in remote listings. Learning any one of them opens roughly a third of this sample and closes the rest, which is why none of them belongs in the essential tier.
+**Frameworks and languages — no consensus, split by market.** PHP/Laravel appears in two listings, while React, Next.js, Vue, TypeScript, Angular and Java appear in only one each. PHP is concentrated in the two Beirut roles; React, Next.js and TypeScript appear in the remote Visualis Media listing; Angular and Java appear in the Chicago UST listing. No framework belongs in the essential tier.
 
-**Infrastructure — concentrated in the remote listings, but not exclusively.** CI/CD (3) and Infrastructure as Code (2) appear only in listings 4, 5 and 6 — every remote role, no on-site role. Cloud (3) and Docker (2) are close but not absolute: listing 3 is on-site in Amman and still requires cloud environments with deployment, monitoring and backups, and listing 1 is on-site in Beirut and still requires Docker. So the pattern is real but has two exceptions, and cloud sits at 3/6 rather than 2/6 precisely because of listing 3. The honest version: remote employers expect you to deploy and operate what you build, and on-site employers usually don't — with enough leakage that "usually" is the right word.
+**Infrastructure — concentrated outside the entry-level local role.** CI/CD is required in listings 4 and 5 and preferred in 6; Infrastructure as Code is required only in 5. Cloud appears in listings 3, 5 and 6, while Docker is required only in listing 1 and preferred in 4. The reliable conclusion is that deployment and operations skills become more important in experienced and non-local roles, not that every remote role asks for the same toolset.
 
-**Practice and process — steady but shallow.** Git (3), documentation (3), testing (2), Agile or Scrum (2) and written English (2) each appear in a minority of listings, but they cut across both markets and every seniority level. Git in particular is under-counted: listings 5 and 6 both require CI/CD pipelines, which cannot function without version control, yet neither names Git anywhere in its requirements. The skill is assumed rather than requested — which means its true frequency is 5 of 6, and possibly 6.
+**Practice and process — broadly useful.** Git (4), documentation (4), testing (3), Agile or Scrum (3) and written English or communication (2) cut across markets and seniority levels. Listing 6 strengthens this pattern by explicitly requiring Git, Agile work, documented code, code review and named testing frameworks.
 
-**Nice-to-have only.** Some items never appear as a hard requirement anywhere. Listing 4 lists testing frameworks (Jest, Cypress, TDD), Docker and Kubernetes, serverless and AWS/Azure, and SEO as preferred; listing 1 lists BigQuery, Power BI and Go. These are differentiators between two otherwise equal candidates, not entry conditions.
+**Nice-to-have only.** Listing 4 lists Jest, Cypress, TDD, Docker, Kubernetes, serverless, AWS/Azure and SEO as preferred; listing 6 lists Vue, serverless architecture and CI/CD as preferred; listing 1 lists BigQuery, Power BI and Go. These are differentiators rather than entry conditions for those roles.
 
-**Zero mentions.** Java and Spring appear in 0 of 6 listings — worth stating explicitly, because they are a standard bootcamp track and carry no weight in this niche.
+**Zero mentions.** Spring, Node.js and C++ appear in 0 of 6 listings. Java appears once as an alternative backend language in listing 6.
 
 ### What surprised me
 
 **1. A "junior" role requiring four years of experience.** Listing 5 is titled *Junior Full Stack Engineer* and asks for a minimum of four years, plus AWS, Jenkins, Infrastructure as Code, secure coding and production triage. The title describes the salary band and the scope of authority, not the experience bar. Set against listing 2 — an intern role asking for basic-to-intermediate PHP — this sample has no genuine entry point in between: you are either an intern or you have four years. That gap is the single most important fact in this research for someone at my stage, because it means the intern route is not a fallback option, it is the route.
 
-**2. Remote roles demand infrastructure skills that local roles mostly do not.** Every listing that requires CI/CD (4, 5, 6) and Infrastructure as Code (5, 6) is remote. Listings 1, 2 and 3 — all on-site in Beirut and Amman — ask for none of it, with two exceptions noted above: listing 1 wants Docker and listing 3 wants cloud deployment and monitoring. The likely reason is structural rather than technical: a remote hire has no one sitting next to them to push the release, so they must own the pipeline themselves. Practically, this means the local market will hire me to write features while the remote market will not hire me until I can also ship them.
+**2. Experienced and non-local roles demand more deployment knowledge.** CI/CD is required in listings 4 and 5 and preferred in 6; cloud appears in listings 3, 5 and 6; Infrastructure as Code appears in listing 5. The intern role asks for none of these. Practically, this means I should first become employable through application fundamentals, then add deployment and operations skills as I move toward more experienced or remote roles.
 
 **3. AI and LLM integration appeared repeatedly and is absent from the bootcamp reference list.** It is a hard requirement in listing 3 — LLM API integration, prompt configuration, structured outputs, and maintaining AI screening and matching workflows — and per [`sources.md`](sources.md) it also appeared in two listings excluded from this sample. One counted mention out of six is not a trend on its own; three sightings across a wider pool, in a category the reference curriculum does not mention at all, is at least worth watching. I would not restructure a roadmap around it, but I would expect it to be a scored requirement rather than a curiosity within a year.
 
-**4. Non-technical requirements are more common than most individual technologies.** Written English is named outright in listing 1; communication is a listed skill in listing 5; documentation duties appear in listings 1 (runbooks, SOPs), 3 (technical and release documentation) and 5 (root-cause write-ups); code review participation appears in listings 2, 3 and 4. Some non-technical requirement is stated in 5 of 6 listings — more than React, Docker, TypeScript or any single framework in the table. For a Lebanon-based developer applying to remote roles, written English is not a soft skill on the side; it is the medium through which every other skill is evaluated.
+**4. Non-technical requirements are more common than most individual technologies.** Written English is named outright in listing 1; communication is required in listing 5; documentation duties appear in listings 1, 3, 5 and 6; code review participation appears in listings 2, 3, 4 and 6. Some non-technical requirement is stated in all six listings — more than any single framework in the table.
 
 ### Skills currently missing from my profile
 
@@ -92,28 +92,28 @@ Current profile: SQL, Java/OOP, C++, HTML/CSS, Next.js in progress.
 
 **Already covered.** SQL (6/6) and HTML/CSS (4/6) are both essential-tier and both already held — two of the five High rows are done. The caveat is depth: listings 1, 4 and 6 ask for schema design and query optimization, not just querying, so "I know SQL" needs to become "I have designed a schema and can explain why."
 
-**Carries no weight in this niche.** Java and Spring scored 0/6. C++ does not appear in any of the six listings at all. These are real skills and they transfer — OOP, memory, algorithms — but no employer in this sample will hire on them. That is worth stating plainly, because it means my strongest existing language is not the one to build on.
+**Limited direct weight in this niche.** Java appears once as an alternative backend language in listing 6, while Spring and C++ appear nowhere. These skills still transfer through OOP, algorithms and problem solving, but Java is not the dominant language in this sample.
 
 **Critical gaps — essential tier, currently absent.**
 
 - **REST APIs (6/6)** — the single highest-scoring requirement in the table and not yet in the profile. This is the first thing to fix.
 - **JavaScript (4/6)** — Next.js in progress implies some exposure, but the listings ask for the language itself, and listing 2 specifies ES6+. Framework-first learning leaves this hollow.
-- **Authentication and security (4/6)** — absent entirely, and required even of the "junior" role in listing 5.
+- **Authentication and security (3/6)** — absent entirely, and required even of the "junior" role in listing 5.
 
 **Assumed gaps — expected, rarely stated.**
 
-- **Git (3/6 stated, 5–6/6 in practice)** — not in the profile, and not optional anywhere.
-- **A backend language the market asks for** — the profile has no server-side language in demand here. PHP/Laravel opens the local market (listings 1, 2); Python opens the US remote market (listings 5, 6); Node.js appears once as an alternative. One of these is required; which one is a market decision, not a technical one.
+- **Git (4/6)** — not in the profile, and central to collaboration, review and deployment workflows.
+- **A backend language the market asks for** — PHP/Laravel opens the local market (listings 1, 2), while Python appears in the two US-based listings (5, 6). Java is accepted as an alternative in listing 6. One of these paths is required; which one is a market decision, not only a technical preference.
 
-**Remote-gated gaps — not needed to start, required to advance.** CI/CD (3/6), cloud (3/6), Docker (2/6), Infrastructure as Code (2/6), NoSQL (2/6), testing (2/6). None appear in the intern listing. All cluster in the roles paying remote wages.
+**Advancement gaps — not needed to start, useful for experienced roles.** CI/CD (2/6 required, plus one preferred), cloud (3/6), Docker (1/6 required), Infrastructure as Code (1/6), NoSQL (2/6) and testing (3/6). None appear as infrastructure requirements in the intern listing.
 
-**Low priority.** TypeScript (1/6) and AI/LLM integration (1/6) — worth knowing they exist; not worth spending time on before the rows above are closed. GraphQL scores Medium (2/6) but is deprioritized alongside them for a specific reason: listings 4 and 6 both ask for it *alongside* REST rather than instead of it, so REST is the requirement and GraphQL is the extra.
+**Low priority.** TypeScript (1/6), GraphQL (1/6) and AI/LLM integration (1/6) are worth monitoring but not worth prioritizing before the higher-frequency requirements. GraphQL appears only in listing 4 and alongside REST rather than replacing it.
 
 ### Local vs. remote comparison
 
-**Stack.** The two groups barely overlap. Local (1, 2, 3) runs on PHP — Laravel with Vue in listing 1, plain PHP with JavaScript in listing 2, unspecified full-stack with AI integration in listing 3. Remote (4, 5, 6) runs on the JavaScript/Python axis — React and Next.js with TypeScript in listing 4, Python with SQL in listing 5, React with either Python or Node.js in listing 6. PHP appears in zero remote listings; React appears in zero local listings. Only REST APIs and SQL are common to all six.
+**Stack.** The two Beirut listings use PHP, with Laravel/Vue in listing 1 and plain PHP/JavaScript in listing 2. The Amman role does not name a framework. The remote listings use React/Next.js/TypeScript in listing 4 and Python/SQL in listing 5, while the Chicago listing uses Angular with Python or Java. Framework choices vary, while REST APIs and database work remain common across all six.
 
-**Seniority.** Local spans the widest range: an intern role (2), a mid-career 3+ role (3), and a senior 5+ role (1). Remote has no true entry point — 5+ years (4), four years despite the "Junior" title (5), and Lead I (6). The only role in this sample I can apply to today is listing 2, and it is local.
+**Seniority.** Local spans an intern role (2), a mid-career 3+ role (3), and a senior 5+ role (1). The two remote listings require 5+ years (4) and four years despite the "Junior" title (5); the Chicago UST listing also requires 5+ years (6). The only role in this sample I can apply to today is listing 2, and it is local.
 
 **Expectations.** Local employers ask you to build: features, integrations, schemas, documentation. Remote employers ask you to build *and ship* — pipelines, deployments, monitoring, security remediation, Infrastructure as Code. Listing 5 makes the contrast sharpest: a role labelled junior that expects production triage, root-cause documentation and dependency patching.
 
